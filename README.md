@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning PowerBI,SQL,Python
 - 💞️ I’m looking to collaborate on PowerBI Projects
-- 📫 How to reach me : Email -subhra901@gmail.com ; Linkedin-http://www.linkedin.com/in/subhra--das
+- 📫 How to reach me : Email -subhra901@gmail.com ; Linkedin-http://www.linkedin.com/in/-subhradas
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love exploring new data visualization tools.
 
